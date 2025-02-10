@@ -1,0 +1,10 @@
+{
+	"TOTAL_IMAGES": 64,
+	"INCLUDE_UNIT_TESTS": true,
+	"WINDOW_LENGTH": 8,
+	"IMAGE_DIR": "incoming_images",
+	"METRIC_DATA_DIR": "performance_data",
+	"METRIC_GRAPHS_DIR": "performance_graphs",
+	"POLL_INTERVAL": 10,
+	"MAX_IDLE_COUNT": 2
+}
