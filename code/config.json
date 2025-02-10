@@ -1,6 +1,6 @@
 {
 	"TOTAL_IMAGES": 64,
-	"INCLUDE_UNIT_TESTS": true,
+	"INCLUDE_UNIT_TESTS": false,
 	"WINDOW_LENGTH": 8,
 	"IMAGE_DIR": "incoming_images",
 	"METRIC_DATA_DIR": "performance_data",
